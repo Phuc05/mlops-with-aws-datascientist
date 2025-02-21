@@ -1,0 +1,7 @@
+this line is added by echo command
+this is an other line added by echo command
+I just use command vi test.txt and add  this line
+to close: esc -> :wq (:q, :q!, :wq!)
+cat test.txt
+less test.txt
+more test.txt
