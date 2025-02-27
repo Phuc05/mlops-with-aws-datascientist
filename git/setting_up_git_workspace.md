@@ -10,3 +10,8 @@ git remote add ssh/https link
 git remote -v -> list all remote reposities that project is linked to
 git push
 ```
+
+### Create another remote
+```bash
+git remote add <name> link
+```
